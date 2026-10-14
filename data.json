@@ -6,9 +6,28 @@
   "coursePdfs": null,
   "courseTests": null,
   "socials": [
-    { "platform": "Reddit", "url": "https://www.reddit.com/u/tranquilizer014" },
-    { "platform": "Telegram", "url": "https://t.me/tranquilizer014" },
-    { "platform": "All Work", "url": "https://tranquilizer014.github.io/Tranquilizer_work/" }
+    {
+      "platform": "Reddit",
+      "url": "https://www.reddit.com/u/tranquilizer014"
+    },
+    {
+      "platform": "Telegram",
+      "url": "https://t.me/tranquilizer014"
+    },
+    {
+      "platform": "All Work",
+      "url": "https://tranquilizer014.github.io/Tranquilizer_work/"
+    }
   ],
-  "subjects": []
+  "subjects": [
+    {
+      "name": "SSB",
+      "lectures": [
+        {
+          "title": "Right Approach to SSB Interviews",
+          "link": "https://streamtape.com/v/7wMyJlW1ODHAABY/1._Right_Approach_to_SSB_Interviews.mp4"
+        }
+      ]
+    }
+  ]
 }
