@@ -28,6 +28,33 @@
           "link": "https://streamtape.com/v/7wMyJlW1ODHAABY/1._Right_Approach_to_SSB_Interviews.mp4"
         }
       ]
+    },
+    {
+      "name": "Biology",
+      "lectures": [
+        {
+          "title": "Body Fluids And Circulation",
+          "link": "https://streamtape.com/v/90MwwGzYLMfaGor/1._Body_Fluids_And_Circulation.mp4"
+        }
+      ]
+    },
+    {
+      "name": "English Vocabulary",
+      "lectures": [
+        {
+          "title": "Root Words Class 1",
+          "link": "https://streamtape.com/v/LpbWbzZPAZsRLZW/1._Root_Words_Class_1.mp4"
+        }
+      ]
+    },
+    {
+      "name": "Maths",
+      "lectures": [
+        {
+          "title": "Intro Class",
+          "link": "https://streamtape.com/v/KXV6gKqyWoTbR2/1._Intro_Class.mp4"
+        }
+      ]
     }
   ]
 }
